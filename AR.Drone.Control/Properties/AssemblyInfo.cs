@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AR.Drone.WinApp")]
+[assembly: AssemblyTitle("AR.Drone.Control")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AR.Drone.WinApp")]
-[assembly: AssemblyCopyright("Copyright © Ruslan Balanukhin 2013")]
+[assembly: AssemblyProduct("AR.Drone.Control")]
+[assembly: AssemblyCopyright("Copyright © Konrad Janczarek")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
